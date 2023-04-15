@@ -2,3 +2,4 @@ Hii i am a developer
 changed by sandeep
 This is now changed
 working with master
+this is added fix command
